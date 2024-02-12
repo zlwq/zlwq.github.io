@@ -9,7 +9,13 @@
 - [x] 大力发展大脑音频等科技产品，清理中国狗屁教育制度对中国青少年的荼毒，保证人类大脑智力，打破思维暴政
 - [ ] 坚持少生不生，压低中国人口和生育率，长痛不如短痛
 - [ ] 深刻理解人工智能对人类社会方方面面的影响，大力发展生产力，推翻腐朽的制度，建立真正的民主
+<div></div>
+<div></div>
+<div></div>
+ 
 
-<video width="320" height="240" controls>
+<center>
+<video width="500" height="500" controls>
     <source src="https://github.com/zlwq/zlwq.github.io/blob/main/hell.mp4" type="video/mp4">
 </video>
+</center>
