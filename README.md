@@ -14,8 +14,6 @@
 <div></div>
  
 
-<center>
-<video width="500" height="500" controls>
-    <source src="https://github.com/zlwq/zlwq.github.io/blob/main/hell.mp4?raw=true" type="video/mp4"> 
+<video src="https://github.com/HakunaMatata052/video/blob/master/a.mp4?raw=true" controls="controls">
+您的浏览器不支持 video 标签。
 </video>
-</center> 
