@@ -11,5 +11,5 @@
 - [ ] 深刻理解人工智能对人类社会方方面面的影响，大力发展生产力，推翻腐朽的制度，建立真正的民主
 
 <video width="320" height="240" controls>
-    <source src="hell.mp4" type="video/mp4">
+    <source src="https://github.com/zlwq/zlwq.github.io/blob/main/hell.mp4" type="video/mp4">
 </video>
