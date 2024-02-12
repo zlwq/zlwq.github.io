@@ -16,6 +16,6 @@
 
 <center>
 <video width="500" height="500" controls>
-    <source src="https://github.com/zlwq/zlwq.github.io/blob/main/hell.mp4" type="video/mp4">
+    <source src="https://github.com/zlwq/zlwq.github.io/blob/main/hell.mp4?raw=true" type="video/mp4"> 
 </video>
-</center>
+</center> 
