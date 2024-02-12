@@ -10,7 +10,6 @@
 - [ ] 坚持少生不生，压低中国人口和生育率，长痛不如短痛
 - [ ] 深刻理解人工智能对人类社会方方面面的影响，大力发展生产力，推翻腐朽的制度，建立真正的民主
 
-<video controls>
-  <source src="hell.mp4" type="video/mp4">
-  您的浏览器不支持 HTML5 视频。
+<video width="320" height="240" controls>
+    <source src="hell.mp4" type="video/mp4">
 </video>
