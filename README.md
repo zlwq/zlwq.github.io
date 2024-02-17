@@ -1,8 +1,10 @@
+<html>   
 <style>
   .indented {
     text-indent: 2em; /* 设置缩进为2个字符宽度 */
   }
-</style>
+</style> 
+</html> 
 <h1 align="center">我们的目标</h1>
 
 - [x] 让大部分中国的青少年认识到腐朽的党政机关和社会制度的存在
