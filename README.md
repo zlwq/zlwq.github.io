@@ -25,12 +25,9 @@
 那真是他妈的逼谁看谁恶心。</p>
      
 <h1 align="center">写在最后</h1>  
- <br>
-<br>
 
-<div class="center"> <a href="https://zlwq.github.io/rule/readme.md" >学习的万能方法</a> </div>
-<br>
-<br>
+<div class="center"> <br><br><a href="https://zlwq.github.io/rule/readme.md" >学习的万能方法</a><br><br> </div>
+
 
 <center>
  <video height="500" width="500" src="https://raw.githubusercontent.com/zlwq/zlwq.github.io/main/hell.mp4" controls="controls">
