@@ -8,13 +8,13 @@
   }
   .rectangle {
     width: 200px; /* 设置矩形框的宽度 */
-    height: 100px; /* 设置矩形框的高度 */
+    height: 120px; /* 设置矩形框的高度 */
     background-color: #f0f0f0; /* 设置矩形框的背景颜色 */
     border: 2px solid #000; /* 设置矩形框的边框，2px 宽度，黑色 */
     border-radius: 8px; /* 设置矩形框的圆角半径 */
     padding: 20px; /* 设置矩形框内边距，使内容距离边框有一定的间隔 */
-    margin: 20px; /* 设置矩形框的外边距，使其与其他元素有一定的间隔 */
-    text-align: center;
+    margin: 0 auto; /* 设置矩形框的左右外边距为自动，实现水平居中 */
+    margin-top: 20px; /* 设置矩形框的上外边距，使其与其他元素有一定的间隔 */
   }
 </style> 
 </html> 
