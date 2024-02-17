@@ -15,7 +15,7 @@
 <div></div>
 <div></div>
 <h1 align="center">写在最后</h1> 
-<a href="https://zlwq.github.io/rule">学习的万能方法</a>
+<a href="https://zlwq.github.io/rule/readme.md">学习的万能方法</a>
 
 <center>
  <video height="500" width="500" src="https://raw.githubusercontent.com/zlwq/zlwq.github.io/main/hell.mp4" controls="controls">
