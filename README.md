@@ -6,6 +6,15 @@
   .center {
     text-align: center;
   }
+  .rectangle {
+    width: 200px; /* 设置矩形框的宽度 */
+    height: 100px; /* 设置矩形框的高度 */
+    background-color: #f0f0f0; /* 设置矩形框的背景颜色 */
+    border: 2px solid #000; /* 设置矩形框的边框，2px 宽度，黑色 */
+    border-radius: 8px; /* 设置矩形框的圆角半径 */
+    padding: 20px; /* 设置矩形框内边距，使内容距离边框有一定的间隔 */
+    margin: 20px; /* 设置矩形框的外边距，使其与其他元素有一定的间隔 */
+  }
 </style> 
 </html> 
 <h1 align="center">我们的目标</h1>
@@ -26,7 +35,7 @@
      
 <h1 align="center">写在最后</h1>  
 
-<div class="center"> <br><br><a href="https://zlwq.github.io/rule/readme.md" >学习的万能方法</a><br><br> </div>
+<div class="center" class="rectangle"> <br><br><a href="https://zlwq.github.io/rule/readme.md" >学习的万能方法</a><br><br> </div>
 
 
 <center>
