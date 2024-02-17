@@ -14,6 +14,7 @@
     border-radius: 8px; /* 设置矩形框的圆角半径 */
     padding: 20px; /* 设置矩形框内边距，使内容距离边框有一定的间隔 */
     margin: 20px; /* 设置矩形框的外边距，使其与其他元素有一定的间隔 */
+    text-align: center;
   }
 </style> 
 </html> 
