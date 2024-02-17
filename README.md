@@ -22,8 +22,9 @@
 那真是他妈的逼谁看谁恶心。</p>
      
 <h1 align="center">写在最后</h1> 
-<div href="https://zlwq.github.io/rule/readme.md" align="center">学习的万能方法</div>
-
+<div  align="center">
+<a href="https://zlwq.github.io/rule/readme.md">学习的万能方法</a>
+</div>
 <center>
  <video height="500" width="500" src="https://raw.githubusercontent.com/zlwq/zlwq.github.io/main/hell.mp4" controls="controls">
 您的浏览器不支持 video 标签。
