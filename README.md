@@ -36,7 +36,8 @@
      
 <h1 align="center">写在最后</h1>  
 <div class="rectangle">
-  <div > <br><br><a href="https://zlwq.github.io/rule/readme.md" >学习的万能方法</a><br><br><br> <br>  </div>
+  <div >  <a href="https://zlwq.github.io/rule/readme.md" >学习的万能方法</a>   </div>
+  <br><br> <br> 
 </div>
 
 
