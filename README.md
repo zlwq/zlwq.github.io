@@ -34,12 +34,12 @@
 那真是他妈的逼谁看谁恶心。</p>
      
 <h1 align="center">写在最后</h1>  
-
-<div class="center rectangle"> <br><br><a href="https://zlwq.github.io/rule/readme.md" >学习的万能方法</a><br><br> </div>
-
 <div class="rectangle">
-  这是一个矩形框示例。
+  <div class="center rectangle"> <br><br><a href="https://zlwq.github.io/rule/readme.md" >学习的万能方法</a><br><br> </div>
 </div>
+
+
+
 <center>
  <video height="500" width="500" src="https://raw.githubusercontent.com/zlwq/zlwq.github.io/main/hell.mp4" controls="controls">
 您的浏览器不支持 video 标签。
