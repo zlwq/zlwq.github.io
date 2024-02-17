@@ -8,7 +8,7 @@
   }
   .rectangle {
     width: 200px; /* 设置矩形框的宽度 */
-    height: 120px; /* 设置矩形框的高度 */
+    height: 100px; /* 设置矩形框的高度 */
     background-color: #f0f0f0; /* 设置矩形框的背景颜色 */
     border: 2px solid #000; /* 设置矩形框的边框，2px 宽度，黑色 */
     border-radius: 8px; /* 设置矩形框的圆角半径 */
