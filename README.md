@@ -3,6 +3,9 @@
   .indented {
     text-indent: 2em;  
   }
+  .center {
+    text-align: center;
+  }
 </style> 
 </html> 
 <h1 align="center">我们的目标</h1>
@@ -21,10 +24,8 @@
 教出来的大学生到社会里啥鸡巴都不会，狗屁不通。更不用说生死名利场，利用人海战术堆指标，宛如一滩死水的学术制度了， 
 那真是他妈的逼谁看谁恶心。</p>
      
-<h1 align="center">写在最后</h1> 
-<div  align="center">
-<a href="https://zlwq.github.io/rule/readme.md">学习的万能方法</a>
-</div>
+<h1 align="center">写在最后</h1>  
+<a href="https://zlwq.github.io/rule/readme.md" class="center">学习的万能方法</a> 
 <center>
  <video height="500" width="500" src="https://raw.githubusercontent.com/zlwq/zlwq.github.io/main/hell.mp4" controls="controls">
 您的浏览器不支持 video 标签。
