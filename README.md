@@ -25,15 +25,15 @@
 那真是他妈的逼谁看谁恶心。</p>
      
 <h1 align="center">写在最后</h1>  
-
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
+ 
 
 <a href="https://zlwq.github.io/rule/readme.md" class="center">学习的万能方法</a> 
 
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
 <div></div>
 <div></div>
 <div></div>
