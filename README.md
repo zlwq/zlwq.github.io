@@ -16,16 +16,13 @@
     margin: 0 auto; /* 设置矩形框的左右外边距为自动，实现水平居中 */
     margin-top: 20px; /* 设置矩形框的上外边距，使其与其他元素有一定的间隔 */
   }
-  .body {
-    background-image: url("https://github.com/zlwq/zlwq.github.io/blob/main/%E6%88%91%E8%A6%81%E8%80%83%E5%A4%A7%E5%AD%A6.jpg"); 
+  body {
+    background: url("https://github.com/zlwq/zlwq.github.io/blob/main/%E6%88%91%E8%A6%81%E8%80%83%E5%A4%A7%E5%AD%A6.jpg"); 
     background-size: 100%;
-    background-attachment: fixed;
-    
-    }
-  
+    background-attachment: fixed; 
+    } 
 </style> 
-</html> 
-
+</html>  
 <body></body>
 <h1 align="center">我们的目标</h1> 
 - [x] 让大部分中国的青少年认识到腐朽的党政机关和社会制度的存在
@@ -40,16 +37,12 @@
 <p class="indented">中国狗屁教育制度的邪恶，除了缩短假期和睡眠时间，灌输不知从哪里搞的，极其畸形的狗屁价值观，通过体罚和精神压迫教唆自杀之外，用了十几年的时间占用了青少年全部的童年。 
 这么多时间，一天到晚就在学校里学那些无用的狗屁知识，甚至到了大学毕业，他妈的连最简单的代码都敲不出来。大学里变味的PPT，还有那吃着时代红利，宛如智障的教职工， 
 教出来的大学生到社会里啥鸡巴都不会，狗屁不通。更不用说生死名利场，利用人海战术堆指标，宛如一滩死水的学术制度了， 
-那真是他妈的逼谁看谁恶心。</p>
-     
+那真是他妈的逼谁看谁恶心。</p> 
 <h1 align="center">写在最后</h1>  
 <div class="rectangle">
   <div >  <a href="https://zlwq.github.io/rule/readme.md" >学习的万能方法</a>   </div>
   <br><br> <br> 
-</div>
-
-
-
+</div>  
 <center>
 <video height="500" width="500" src="https://media.githubusercontent.com/media/zlwq/zlwq.github.io/main/fuck1.mp4" controls="controls">
 您的浏览器不支持 video 标签。
