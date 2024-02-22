@@ -17,7 +17,7 @@
     margin-top: 20px; /* 设置矩形框的上外边距，使其与其他元素有一定的间隔 */
   }
   body {
-    background: url("https://github.com/zlwq/zlwq.github.io/blob/main/%E6%88%91%E8%A6%81%E8%80%83%E5%A4%A7%E5%AD%A6.jpg"); 
+    background: url("https://github.com/zlwq/zlwq.github.io/blob/main/%E6%88%91%E8%A6%81%E8%80%83%E5%A4%A7%E5%AD%A6.jpg?raw=true"); 
     background-size: 100%;
     background-attachment: fixed; 
     } 
