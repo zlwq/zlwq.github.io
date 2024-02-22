@@ -16,10 +16,13 @@
     margin: 0 auto; /* 设置矩形框的左右外边距为自动，实现水平居中 */
     margin-top: 20px; /* 设置矩形框的上外边距，使其与其他元素有一定的间隔 */
   }
+  
 </style> 
 </html> 
 <h1 align="center">我们的目标</h1>
-
+<div id="Layer1" style="position:fixed; left:0px; top:0px; width:100%; height:100%;opacity:0.8">
+    <img src="https://github.com/zlwq/zlwq.github.io/blob/main/%E6%88%91%E8%A6%81%E8%80%83%E5%A4%A7%E5%AD%A6.jpg" width="100%" height="100%"/>
+    </div>        
 - [x] 让大部分中国的青少年认识到腐朽的党政机关和社会制度的存在
 - [ ] 让所有人认识到腐朽的党政机关和社会制度的存在
 - [ ] 通过发展人工智能，以神奇脑波为主的脑波产品和脑机接口保障人类的身心健康，大力发展生产力
@@ -43,10 +46,19 @@
 
 
 <center>
- <video height="500" width="500" src="https://raw.githubusercontent.com/zlwq/zlwq.github.io/main/hell.mp4" controls="controls">
+<video height="500" width="500" src="https://media.githubusercontent.com/media/zlwq/zlwq.github.io/main/fuck1.mp4" controls="controls">
 您的浏览器不支持 video 标签。
 </video> 
-  <video height="500" width="500" src="https://media.githubusercontent.com/media/zlwq/zlwq.github.io/main/fuck.mp4" controls="controls">
+<video height="500" width="500" src="https://media.githubusercontent.com/media/zlwq/zlwq.github.io/main/fuck2.mp4" controls="controls">
+您的浏览器不支持 video 标签。
+</video> 
+<video height="500" width="500" src="https://media.githubusercontent.com/media/zlwq/zlwq.github.io/main/fuck3.mp4" controls="controls">
+您的浏览器不支持 video 标签。
+</video> 
+<video height="500" width="500" src="https://media.githubusercontent.com/media/zlwq/zlwq.github.io/main/fuck4.mp4" controls="controls">
+您的浏览器不支持 video 标签。
+</video> 
+<video height="500" width="500" src="https://media.githubusercontent.com/media/zlwq/zlwq.github.io/main/fuck5.mp4" controls="controls">
 您的浏览器不支持 video 标签。
 </video> 
 </center> 
