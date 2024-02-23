@@ -19,14 +19,12 @@
 - 无论是大脑的可塑性，大脑的记忆能力，大脑的注意力持久时间，都是有局限性的
 - 学习任何知识，掌握任何技能都不能一蹴而就
 - 超忆症，自闭症并不能提高所谓的学习能力，而是恰恰相反
-
-
- 
- <div>最重要的是对计算机世界，数学世界的热爱</div>
-<div>对每个细节的热爱</div>
-<div>对一切相关事物的热爱</div>
-<div>对一切生活智慧背后抽象出的算法和灵感的爱</div>
-<div>最纯洁，最高上的纯美的爱</div>
+# 5、写到最后，学习真正的金钥匙
+<div  align-items:center>最重要的是对计算机世界，数学世界等你所在学科的热爱</div>
+<div  align-items:center>对每个细节的热爱</div>
+<div>  align-items:center对一切相关事物的热爱</div>
+<div> align-items:center对一切生活智慧背后抽象出的算法和灵感的爱</div>
+<div align-items:center>最纯洁，最高上的纯美的爱</div>
 <div></div>
-<div>找回从前的热爱吧</div>
-<div>让我们忘记腐朽的经历产生的悲痛</div>
+<div> align-items:center找回从前的热爱吧</div>
+<div align-items:center>让我们忘记腐朽的经历产生的悲痛</div>
