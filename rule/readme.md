@@ -20,11 +20,12 @@
 - 学习任何知识，掌握任何技能都不能一蹴而就
 - 超忆症，自闭症并不能提高所谓的学习能力，而是恰恰相反
 # 5、写到最后，学习真正的金钥匙
-<div  align-items:center>最重要的是对计算机世界，数学世界等你所在学科的热爱</div>
-<div  align-items:center>对每个细节的热爱</div>
-<div>  align-items:center对一切相关事物的热爱</div>
-<div> align-items:center对一切生活智慧背后抽象出的算法和灵感的爱</div>
-<div align-items:center>最纯洁，最高上的纯美的爱</div>
-<div></div>
-<div> align-items:center找回从前的热爱吧</div>
-<div align-items:center>让我们忘记腐朽的经历产生的悲痛</div>
+<center>最重要的是对计算机世界，数学世界等你所在学科的热爱 </center>
+<center>对每个细节的热爱</center>
+<center>对一切相关事物的热爱</center>
+<center>对一切生活智慧背后抽象出的算法和灵感的爱</center>
+<center>最纯洁，最高上的纯美的爱</center>
+<center>找回从前的热爱吧</center>
+<center> </center>
+<center>让我们忘记腐朽的经历产生的悲痛</center>
+   
