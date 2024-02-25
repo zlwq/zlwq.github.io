@@ -52,6 +52,7 @@
 <center><a href="https://b23.tv/2BZ7IA4">https://b23.tv/2BZ7IA4</a></center>
 
 # 8、写到最后，学习真正的金钥匙
+
 <center>最重要的是对计算机世界，数学世界等你所在学科的热爱 </center>
 <center>对每个细节的热爱</center>
 <center>对一切相关事物的热爱</center>
