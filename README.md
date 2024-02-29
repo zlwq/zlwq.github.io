@@ -59,4 +59,7 @@
 <video height="500" width="500" src="https://media.githubusercontent.com/media/zlwq/zlwq.github.io/main/fuck5.mp4" controls="controls">
 您的浏览器不支持 video 标签。
 </video> 
+<video height="500" width="500" src="https://media.githubusercontent.com/media/zlwq/zlwq.github.io/main/fuck6.mp4" controls="controls">
+您的浏览器不支持 video 标签。
+</video>
 </center> 
