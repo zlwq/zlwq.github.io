@@ -60,6 +60,9 @@
 ## 利用冥想提升学习能力的主要步骤
 <center><a href="https://b23.tv/2BZ7IA4">https://b23.tv/2BZ7IA4</a></center>
 
+## 冥想教程链接
+<center><a href="http://mtw.so/62Fhf6">http://mtw.so/62Fhf6</a></center>
+
 # 8、写到最后，学习真正的金钥匙
 
 <center>最重要的是对计算机世界，数学世界等你所在学科的热爱 </center>
