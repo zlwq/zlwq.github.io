@@ -61,7 +61,7 @@
 <center><a href="https://b23.tv/2BZ7IA4">https://b23.tv/2BZ7IA4</a></center>
 
 ## 冥想教程链接
-<center><a href="http://mtw.so/62Fhf6">http://mtw.so/62Fhf6</a></center>
+<center><a href="https://www.bilibili.com/video/BV1NM4y1d7aC">https://www.bilibili.com/video/BV1NM4y1d7aC</a></center>
 
 # 8、写到最后，学习真正的金钥匙
 
