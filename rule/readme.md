@@ -58,10 +58,10 @@
 - 冥想不是金钥匙，当然也不是解决所有心理或精神问题的银弹，某些情况下催眠更有效
 - 冥想有助于睡眠，但是睡眠之前冥想反而让前额叶兴奋，让人睡不着
 ## 利用冥想提升学习能力的主要步骤
-<center><a href="b23.tv/2BZ7IA4">b23.tv/2BZ7IA4</a></center>
+<center><a href="https://b23.tv/2BZ7IA4">b23.tv/2BZ7IA4</a></center>
 
 ## 冥想教程链接
-<center><a href="b23.tv/KtAeI4M">b23.tv/KtAeI4M</a></center>
+<center><a href="https://b23.tv/KtAeI4M">b23.tv/KtAeI4M</a></center>
 
 # 8、写到最后，学习真正的金钥匙
 
