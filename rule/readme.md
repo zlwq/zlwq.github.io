@@ -55,7 +55,7 @@
 <center><a href="https://b23.tv/2BZ7IA4">b23.tv/2BZ7IA4</a></center>
 
 ## 冥想教程链接
-<center><a href="https://b23.tv/KtAeI4M">b23.tv/KtAeI4M</a></center>
+<center><a href="https://b23.tv/KtAeI4M">b23.tv/KtAeI4M</a></center>  
 <center><a href="https://zlwq.github.io/rule/meditation.md">个人总结的冥想教程</a></center>
 
 # 8、写到最后，学习真正的金钥匙
